@@ -1,0 +1,42 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "What is 1 + 1",
+            "additional_kwargs": {},
+            "type": "human",
+            "example": false,
+            "is_chunk": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "1 + 1 is equal to 2.",
+            "additional_kwargs": {},
+            "type": "ai",
+            "example": false,
+            "is_chunk": false
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "and 3 more",
+            "additional_kwargs": {},
+            "type": "human",
+            "example": false,
+            "is_chunk": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "1 + 1 + 3 is equal to 5.",
+            "additional_kwargs": {},
+            "type": "ai",
+            "example": false,
+            "is_chunk": false
+        }
+    }
+]
